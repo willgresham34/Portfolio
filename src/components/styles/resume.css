@@ -1,0 +1,16 @@
+.resCont {
+  color: snow;
+}
+
+.listCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
+
+iframe {
+  width: 750px;
+  height: 600px;
+  overflow: scroll;
+}

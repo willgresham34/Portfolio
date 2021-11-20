@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap');
+
+
+.profCont {
+  display: flex;
+  flex-direction: row;
+  padding: 50px 10px;
+  font-family: 'Gideon Roman', cursive;
+}
+
+.abtMeHeader {
+  color: snow;
+  text-align: center;
+}
+
+.abtMe {
+  color: snow;
+  padding: 10px 40px;
+}
+
+.profPic {
+  height: 300px;
+  width: 300px;
+}
+
+.picCont {
+  display: flex;
+  justify-content: center;
+}
+
+.abtMe p {
+  padding-top: 10px;
+}

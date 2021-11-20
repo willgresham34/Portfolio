@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: rgb(29, 29, 29); */
+}
+
+html {
+  background-color: rgb(29, 29, 29);
+}
+
+body {
+  height: 100vh;
+  overflow-x: hidden;
+  background-color: rgb(29, 29, 29);
+
+}
+
+.projCont {
+  background-color: rgb(29, 29, 29);
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.projBox {
+  width: 300px;
+  height: 150px;
+  object-fit: fill;
+  object-position: center;
+}

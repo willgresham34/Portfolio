@@ -1,0 +1,39 @@
+.cont {
+  display: flex;
+  flex-direction: row;
+  columns: 2;
+  justify-content: space-evenly;
+  padding-top: 75px;
+}
+
+.iconCont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.iconBox {
+  width: 75px;
+  height: 75px;
+  margin: 20px;
+}
+
+.formHead {
+  color: snow;
+}
+
+.contForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 35vw;
+}
+
+.sendBtn {
+  width: 100px;
+  align-self: center;
+}
+
+.contForm textarea {
+  padding: 2px 5px;
+}
