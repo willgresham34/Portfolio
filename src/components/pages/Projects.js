@@ -10,7 +10,7 @@ export default function Projects() {
           target="_blank"
           rel="noreferrer"
         >
-          <img className="card-img" src="images/fortnite.jpg" alt="Teammatex" />
+          <img className="card-img" src="images/fortnite.jpg" alt="Teammatez" />
         </a>
       </div>
 
@@ -22,7 +22,7 @@ export default function Projects() {
         >
           <img
             className="card-img"
-            src="/images/neveralone.png"
+            src="images/neveralone.png"
             alt="NeverAlone"
           />
         </a>
